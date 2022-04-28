@@ -13,7 +13,7 @@ playload = {
 
 headerst = {
 
-   'authorization': 'NDgzMDM0NTk0NzI0MTUxMzE4.YmG9uA.Q1En84pjfrid1WarNLXw0jLe6c4'
+   'authorization': ''
 
 }
 
